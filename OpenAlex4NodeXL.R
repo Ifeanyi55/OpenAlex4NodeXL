@@ -1,4 +1,5 @@
 openAlex4NodeXL <- function(keywords, pub_start_date, pub_end_date) {
+  
   keywords <- keywords
   pub_start_date <- pub_start_date
   pub_end_date <- pub_end_date
@@ -10,7 +11,7 @@ openAlex4NodeXL <- function(keywords, pub_start_date, pub_end_date) {
     suppressPackageStartupMessages(library(tidyverse))
 
     # set options
-    options(openalexR.mailto = "idiayeifeanyi@yahoo.com")
+    options(openalexR.mailto = "youremail@email.com") # replace with your email address
 
     # search engine
     works_search <- oa_fetch(
@@ -230,14 +231,16 @@ openAlex4NodeXL <- function(keywords, pub_start_date, pub_end_date) {
 
 
   return(authorAtt_df)
+
+  
 }
 
-# # test program
+# # test software program
 # mydata <- openAlex4NodeXL(
 #   keywords = c("software", "information"),
 #   pub_start_date = "2019-01-01",
 #   pub_end_date = "2023-09-30"
 # )
-# 
+
 # # view returned data
 # mydata |> view()
