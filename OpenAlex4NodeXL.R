@@ -231,6 +231,7 @@ openAlex4NodeXL <- function(keywords, pub_start_date, pub_end_date) {
 
 
   return(authorAtt_df)
+  
 
   
 }
