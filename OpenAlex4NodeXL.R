@@ -1,4 +1,5 @@
 openAlex4NodeXL <- function(keywords, pub_start_date, pub_end_date) {
+  
   keywords <- keywords
   pub_start_date <- pub_start_date
   pub_end_date <- pub_end_date
@@ -231,7 +232,7 @@ openAlex4NodeXL <- function(keywords, pub_start_date, pub_end_date) {
 
   return(authorAtt_df)
   
-  
+
   
 }
 
