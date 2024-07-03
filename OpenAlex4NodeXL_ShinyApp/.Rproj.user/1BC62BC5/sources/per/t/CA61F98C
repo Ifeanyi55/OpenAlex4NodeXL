@@ -1,0 +1,26 @@
+{
+    "id": "CA61F98C",
+    "path": "~/OpenAlex4NodeXL_ShinyApp/OpenAlex4NodeXL.R",
+    "project_path": "OpenAlex4NodeXL.R",
+    "type": "r_source",
+    "hash": "2369084122",
+    "contents": "",
+    "dirty": false,
+    "created": 1719838763512.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "246,45",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1719939269,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1719939269098,
+    "read_only": false,
+    "read_only_alternatives": []
+}
