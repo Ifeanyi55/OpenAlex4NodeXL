@@ -6,6 +6,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Ifeanyi55/OpenAlex4NodeXL)
 
 # OpenAlex4NodeXL
-This is part of a string of collaborative projects with the [Social Media Research Foundation](https://www.smrfoundation.org/) to create open source data importing software which will be integrated with NodeXL, the proprietary software used by the Foundation's researchers to undertake social network analysis.
+This is part of a series of collaborative projects with the [Social Media Research Foundation](https://www.smrfoundation.org/) to develop open-source data importing software, which will be integrated with NodeXL, the proprietary software used by the Foundation's researchers for social network analysis. See OpenAlex4NodeXL live [here](https://openalex4nodexl.netlify.app/).
 
 The collaboration focuses on building software that programmatically accesses publicly available data via API calls and wrangles the data into a format that can be injested by NodeXL for scientific analysis.
